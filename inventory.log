@@ -1,0 +1,52 @@
+Dec 09, 2025 6:05:57 PM Inventory addItem
+INFO: Added item: Item{id='ITEM-1', name='keyboard', qty=5}
+Dec 09, 2025 6:06:14 PM Inventory addItem
+INFO: Added item: Item{id='ITEM-2', name='mouse', qty=8}
+Dec 09, 2025 6:06:41 PM Inventory sellItem
+INFO: Sold 2 units of: keyboard
+Dec 10, 2025 10:24:09 AM Inventory addItem
+INFO: Added item: Item{id='ITEM-1', name='mouse', qty=5}
+Dec 10, 2025 12:32:16 PM Inventory addItem
+INFO: Added item: Item{id='ITEM-1', name='mouse', qty=5}
+Dec 10, 2025 12:51:13 PM Inventory addItem
+INFO: Added item: Item{id='ITEM-1', name='mouse', qty=5}
+Dec 10, 2025 12:51:22 PM Inventory addItem
+INFO: Added item: Item{id='ITEM-2', name='keyboard', qty=6}
+Dec 10, 2025 12:51:36 PM Inventory addItem
+INFO: Added item: Item{id='ITEM-3', name='pen', qty=3}
+Dec 10, 2025 12:58:37 PM Inventory sellItem
+INFO: Sold 3 units of: mouse
+Dec 10, 2025 12:59:22 PM Inventory addItem
+INFO: Added item: Item{id='ITEM-1', name='mouse', qty=5}
+Dec 10, 2025 2:33:32 PM Inventory addItem
+INFO: Added item: Item{id='ITEM-1', name='mouse', qty=5}
+Dec 10, 2025 2:37:32 PM Inventory addItem
+INFO: Added item: Item{id='ITEM-2', name='mouse', qty=2}
+Dec 10, 2025 2:38:02 PM Inventory addItem
+INFO: Added item: Item{id='ITEM-1', name='mouse', qty=4}
+Dec 10, 2025 2:52:24 PM Inventory addItem
+INFO: Added item: Item{id='ITEM-1', name='jabjdsa', qty=54}
+Dec 10, 2025 3:05:37 PM Inventory addItem
+INFO: Added item: Item{id='ITEM-1', name='mouse', qty=3}
+Dec 10, 2025 3:07:44 PM Inventory addItem
+INFO: Added item: Item{id='ITEM-1', name='mouse', qty=4}
+Dec 10, 2025 3:17:01 PM Inventory addItem
+INFO: Added item: Item{id='ITEM-1', name='mouse', qty=4}
+Dec 10, 2025 3:22:33 PM Inventory addItem
+INFO: Added item: Item{id='ITEM-1', name='werfghj', qty=345678}
+Dec 10, 2025 4:56:46 PM Inventory sellItem
+INFO: Sold 2 units of: werfghj
+Dec 10, 2025 4:57:29 PM Inventory addItem
+INFO: Added item: Item{id='ITEM-1', name='1', qty=200}
+Dec 10, 2025 4:58:14 PM Inventory sellItem
+INFO: Sold 200 units of: 1
+Dec 10, 2025 4:58:14 PM Inventory checkLowStock
+WARNING: Low stock for item: Item{id='ITEM-1', name='1', qty=0}
+Dec 10, 2025 4:59:11 PM Inventory addItem
+INFO: Added item: Item{id='ITEM-2', name='3', qty=400}
+Dec 10, 2025 5:06:11 PM Inventory addItem
+INFO: Added item: Item{id='ITEM-1', name='dfghjk', qty=234567}
+Dec 10, 2025 5:06:24 PM Inventory addItem
+INFO: Added item: Item{id='ITEM-2', name='cvbn', qty=234}
+Dec 10, 2025 5:07:03 PM Inventory sellItem
+INFO: Sold 5 units of: cvbn
