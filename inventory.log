@@ -50,3 +50,9 @@ Dec 10, 2025 5:06:24 PM Inventory addItem
 INFO: Added item: Item{id='ITEM-2', name='cvbn', qty=234}
 Dec 10, 2025 5:07:03 PM Inventory sellItem
 INFO: Sold 5 units of: cvbn
+Dec 11, 2025 11:01:42 AM Inventory addItem
+INFO: Added item: Item{id='ITEM-1', name='mouse', qty=500}
+Dec 11, 2025 11:01:54 AM Inventory addItem
+INFO: Added item: Item{id='ITEM-2', name='keyboard', qty=3}
+Dec 11, 2025 11:01:54 AM Inventory checkLowStock
+WARNING: Low stock for item: Item{id='ITEM-2', name='keyboard', qty=3}

@@ -27,6 +27,7 @@ public class Main {
                     int addQty = menu.getInt("Enter quantity to add: ");
                     inventory.updateStock(upId, addQty);
                     break;
+                
                 case 3: 
                     String sellId = menu.getString("Enter item ID: ");
                     int sellQty = menu.getInt("Enter quantity to sell: ");
@@ -43,13 +44,15 @@ public class Main {
 
                     break;
 
-
                 case 4: 
                     inventory.showInventory();
                     break;
                 
-                    
-                case 5: // Exit
+                case 5: 
+                    showLogs();
+                    break;  
+
+                case 6: // Exit
                     running = false;
                     System.out.println("Exiting system...");
                     break;
